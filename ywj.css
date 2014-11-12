@@ -110,11 +110,12 @@ body footer{
 }
 
 body footer img{
-  width:480px;
-  height:200px;
+  max-width:480px;
+  max-height:200px;
 }
 
 .footer-left{
+  font-size:18px;
   float:left;
   margin-left:200px;
 }
