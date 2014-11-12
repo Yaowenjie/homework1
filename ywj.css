@@ -64,8 +64,8 @@ body .disk-title {
   margin-bottom: -1px;
 }
 body .disk img{
-  width:300px;
-  height:300px;
+  max-width:300px;
+  max-height:300px;
   align:center;
 }
 body .disk1,.disk2,.disk3{
@@ -82,8 +82,8 @@ body .U-disk{
   margin-left:125px;
 }
 body .U-disk img{
-  width:300px;
-  height:300px;
+  max-width:300px;
+  max-height:300px;
   align:center;
 }
 
@@ -92,8 +92,8 @@ body .hard-disk{
   margin-left:125px;
 }
 body .hard-disk img{
-  width:300px;
-  height:300px;
+  max-width:300px;
+  max-height:300px;
   align:center;
 }
 .intro{
